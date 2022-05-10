@@ -1,4 +1,4 @@
-URL="https://raw.githubusercontent.com/BastianAsmussen/KillSwitch/main/Value.txt" # 0 = off, 1 = on
+URL="https://raw.githubusercontent.com/BastianAsmussen/Kill-Switch/main/Value.txt" # 0 = off, 1 = on
 
 echo "Checking Killswitch..."
 echo "($URL)"
